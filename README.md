@@ -1,5 +1,4 @@
 # VRV-Security-s-Python-Intern-Assignment
-# VRV-Security-s-Python-Intern-Assignment
 ## 🔒 Overview
 This Python script is a sophisticated log analysis tool developed for VRV Security's internship assignment. It provides comprehensive analysis of network log files, focusing on identifying potential security threats and usage patterns.
 ## 🚀 Features
